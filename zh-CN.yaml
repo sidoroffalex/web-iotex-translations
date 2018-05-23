@@ -157,8 +157,7 @@ auth.unsupported_country_code: 暂不支持此国际电话区号
 auth.invalid_v_code: 短信验证码错误
 auth.expired_v_code: 短信验证码已过期
 auth.verification_code: 验证码
-auth.enter_verification_code: >-
-  请输入发送到<strong>%s</strong>的六位短信验证码
+auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
 geetest.loading_captcha: 正在载入人机验证...
 geetest.incorrect_captcha: 请证明你不是机器人
 next: next
@@ -182,4 +181,6 @@ profile.title_redeem_points: 请输入您想兑换到IOTX币的数额
 profile.bar_redeem_points: 提交申请
 profile.barSuccessMsg: 已提交
 profile.eth_address: ETH地址
-
+auth.tab.telegram: auth.tab.telegram
+auth.tab.mobile: auth.tab.mobile
+auth.login_with_telegram: auth.login_with_telegram
