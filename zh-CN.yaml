@@ -1,6 +1,15 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
+auth.enter_phone_number: 输入手机号码
+auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
+auth.login: 登录
+auth.login_with_telegram: 用Telegram登录
+auth.next: 下一步
+auth.phone_number: 手机号码
+auth.tab.mobile: 手机登录
+auth.tab.telegram: Telegram
+auth.verification_code: 验证码
 charity.donated: 捐赠了
 charity.more-info: 了解IoTeX慈善活动更多信息
 charity.question: 我是如何知道IoTeX的？为什么我支持这个项目？
@@ -10,12 +19,13 @@ charity.tweet.summary.description: 感谢你为区块链行业做出的贡献！
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: 你的善举已经公示在IoTeX荣誉墙上！
-doraHacks: DoraHacks
 claim.btn: 兑换你的积分
 contact.btn: 联系我们
 contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家团队将为您解答
 contact.title: 与我们保持联系
+doraHacks: DoraHacks
 ethFoundation: 以太坊基金会
+geetest.loading_captcha: 正在载入人机验证...
 hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
 hall-of-fame.badge-section.unicorn.desc: >
   在过去的四年，以太坊彻底颠覆了区块链世界，并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a
@@ -129,6 +139,35 @@ home.xinxin.title.keep: 密码学负责人
 home.zhefeng.desc.keep: 加州大学圣地亚哥分校计算机硕士，威斯康星大学计算机和数学双学位。专注于区块链技术，机器学习和人工智能。
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: 区块链工程师
+next: next
+profile.bar_receive_points: 兑换
+profile.bar_redeem_points: 提交申请
+profile.bar_send_points: 生成代码
+profile.bar_success_receive_points: 兑换
+profile.bar_success_send_points: 已生成
+profile.eth_address: ETH地址
+profile.history.category: Category
+profile.history.point: Point
+profile.history.reason: Reason
+profile.history.time: Time
+profile.msg_receive_points: msg_receive_points
+profile.phone: 手机号码
+profile.receive_reward_points: 接受奖励积分
+profile.redeem.less_than_100_points: You need at least 100 points to submit a request.
+profile.redeem.not_a_number: Please enter a valid number.
+profile.redeem.not_enough_points: You don't have enough points.
+profile.redeem.smaller_than_zero: Please enter a valid amount to redeem.
+profile.redeem.success: >-
+  To ensure all applications are processed safely and to avoid high gas fees, we
+  will process the applications gradually and finalize all point-to-token
+  redemptions within two weeks of our token issuance date.
+profile.redeem_reward_points: 兑换奖励积分
+profile.reward_points_history: 积分历史记录
+profile.send_reward_points: 赠送奖励积分
+profile.telegram_account_id: Telegram账号
+profile.title_receive_points: 请输入兑换码兑换积分
+profile.title_redeem_points: 请输入您想兑换到IOTX币的数额
+profile.title_send_points: 请输入您想赠送的数额
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展
@@ -144,43 +183,3 @@ topbar.home: 首页
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
-auth.telegram.invalid_hash: 无法使用 Telegram 登陆，请联系我们的社区管理员。
-auth.enter_phone_number: 输入手机号码
-auth.phone_number: 手机号码
-auth.next: 下一步
-auth.login: 登录
-auth.or_continue_with_phone_number: 或者使用手机号码
-auth.invalid_request: 无效输入
-auth.invalid_phone_number: 手机号码错误
-auth.cannot_send_sms: 无法发送短信到此手机号码
-auth.unsupported_country_code: 暂不支持此国际电话区号
-auth.invalid_v_code: 短信验证码错误
-auth.expired_v_code: 短信验证码已过期
-auth.verification_code: 验证码
-auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
-geetest.loading_captcha: 正在载入人机验证...
-geetest.incorrect_captcha: 请证明你不是机器人
-next: next
-profile.phone_number: 手机号码
-profile.enter_phone_number: 请输入手机号
-profile.telegram_account_id: Telegram账号
-profile.wechat_account_id: 微信号
-profile.phone: 手机号码
-profile.receive_reward_points: 接受奖励积分
-profile.send_reward_points: 赠送奖励积分
-profile.redeem_reward_points: 兑换奖励积分
-profile.reward_points_history: 积分历史记录
-profile.title_receive_points: 请输入兑换码兑换积分
-profile.bar_receive_points: 兑换
-profile.bar_success_receive_points: 兑换
-profile.msg_receive_points: msg_receive_points
-profile.title_send_points: 请输入您想赠送的数额
-profile.bar_send_points: 生成代码
-profile.bar_success_send_points: 已生成
-profile.title_redeem_points: 请输入您想兑换到IOTX币的数额
-profile.bar_redeem_points: 提交申请
-profile.barSuccessMsg: 已提交
-profile.eth_address: ETH地址
-auth.tab.telegram: auth.tab.telegram
-auth.tab.mobile: auth.tab.mobile
-auth.login_with_telegram: auth.login_with_telegram
