@@ -216,9 +216,13 @@ profile.history.category: Category
 profile.history.point: Point
 profile.history.reason: Reason
 profile.history.time: Time
+profile.history.status: Status
 profile.msg_receive_points: msg_receive_points
 profile.phone: Phone
+profile.phone_number: Phone Number
+profile.telegram_account_id: Telegram
 profile.receive_reward_points: RECEIVE
+profile.barSuccessMsg: SUBMIT APPLICATION
 profile.redeem.less_than_100_points: You need at least 100 points to submit a request.
 profile.redeem.not_a_number: Please enter a valid number.
 profile.redeem.not_enough_points: You don't have enough points.
@@ -230,7 +234,6 @@ profile.redeem.success: >-
 profile.redeem_reward_points: REDEEM
 profile.reward_points_history: HISTORY
 profile.send_reward_points: SEND
-profile.telegram_account_id: Telegram
 profile.title_receive_points: ENTER CODE TO CLAIM MORE POINTS
 profile.title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
 profile.title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
@@ -248,6 +251,7 @@ topbar.careers: CAREERS
 topbar.charity: CHARITY
 topbar.faq: FAQ
 topbar.home: HOME
+topbar.login: LOGIN
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
