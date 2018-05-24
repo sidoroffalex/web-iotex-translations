@@ -191,6 +191,7 @@ profile.history.category: Category
 profile.history.point: Point
 profile.history.reason: Reason
 profile.history.time: Time
+profile.history.status: Status
 profile.msg_receive_points: msg_receive_points
 profile.phone: Phone
 profile.receive_reward_points: RECEIVE
@@ -223,6 +224,7 @@ topbar.careers: 인재채용
 topbar.charity: 자선
 topbar.faq: FAQ
 topbar.home: 홈
+topbar.login: 로그인
 topbar.white-paper: 백서
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS

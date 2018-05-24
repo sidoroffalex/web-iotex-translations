@@ -149,10 +149,11 @@ profile.bar_send_points: 生成代码
 profile.bar_success_receive_points: 兑换
 profile.bar_success_send_points: 已生成
 profile.eth_address: ETH地址
-profile.history.category: Category
-profile.history.point: Point
-profile.history.reason: Reason
-profile.history.time: Time
+profile.history.category: 类别
+profile.history.point: 积分
+profile.history.reason: 原因
+profile.history.time: 时间
+profile.barSuccessMsg: 已提交
 profile.msg_receive_points: msg_receive_points
 profile.phone: 手机号码
 profile.receive_reward_points: 接受奖励积分
@@ -183,6 +184,7 @@ topbar.careers: 职位
 topbar.charity: 慈善
 topbar.faq: FAQ
 topbar.home: 首页
+topbar.login: 登录
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
