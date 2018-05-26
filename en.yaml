@@ -116,6 +116,11 @@ home.guang.desc.keep: >-
   Identification (RFID) security.
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
+home.hao.desc.keep: >-
+  Master in Software Engineering at Carnegie Mellon University. Web and
+  blockchain enthusiast.
+home.hao.name.keep: Hao Cui
+home.hao.title.keep: Software Engineer Intern
 home.jack.desc.keep: >-
   Co-Founding Managing Partner of HCM Capital, Foxconn Technology Group.
   Co-Founder and Executive Director of Chained Finance Ltd., Founder & Executive
@@ -178,6 +183,7 @@ home.site.description: >-
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
   World, Block by Block.
 home.slogan: Connecting the Physical World Block by Block
+home.title: IoTeX
 home.vedaad.desc.keep: >-
   Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
   on the cryptoeconomics team at Blockchain @ Berkeley
@@ -188,11 +194,6 @@ home.vincent.desc.keep: >-
   enthusiast.
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Software Engineer Intern
-home.hao.desc.keep: >-
-  Master in Software Engineering at Carnegie Mellon University. Web and blockchain
-  enthusiast.
-home.hao.name.keep: Hao Cui
-home.hao.title.keep: Software Engineer Intern
 home.xinxin.desc.keep: >-
   Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 14
   years of research and industry experience in information security and crypto.
@@ -214,15 +215,11 @@ profile.bar_success_send_points: GENERATE
 profile.eth_address: ETH Address
 profile.history.category: Category
 profile.history.point: Point
-profile.history.reason: Reason
-profile.history.time: Time
 profile.history.status: Status
+profile.history.time: Time
 profile.msg_receive_points: msg_receive_points
 profile.phone: Phone
-profile.phone_number: Phone Number
-profile.telegram_account_id: Telegram
 profile.receive_reward_points: RECEIVE
-profile.barSuccessMsg: SUBMIT APPLICATION
 profile.redeem.less_than_100_points: You need at least 100 points to submit a request.
 profile.redeem.not_a_number: Please enter a valid number.
 profile.redeem.not_enough_points: You don't have enough points.
@@ -234,6 +231,7 @@ profile.redeem.success: >-
 profile.redeem_reward_points: REDEEM
 profile.reward_points_history: HISTORY
 profile.send_reward_points: SEND
+profile.telegram_account_id: Telegram
 profile.title_receive_points: ENTER CODE TO CLAIM MORE POINTS
 profile.title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
 profile.title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
@@ -253,6 +251,5 @@ topbar.faq: FAQ
 topbar.home: HOME
 topbar.login: LOGIN
 topbar.white-paper: WHITE PAPER
-topbar.announcements: ANNOUNCEMENTS
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS

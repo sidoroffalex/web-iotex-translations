@@ -76,6 +76,9 @@ home.fan.title.keep: null
 home.guang.desc.keep: IEEE 研究员。加拿大滑铁卢大学教授。密码学和轻量级密码学、自组织网络和射频识别安全领域顶级科学家
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
+home.hao.desc.keep: 卡内基梅隆大学软件工程硕士在读。
+home.hao.name.keep: Hao Cui
+home.hao.title.keep: 软件工程实习生
 home.jack.desc.keep: >-
   富士康旗下投资基金HCM Capital创始合伙人，引领集团区块链和加密货币投资。 Chained Finance
   Ltd.联合创始人兼执行董事。FnConn创始人兼执行董事。Abra董事
@@ -123,6 +126,7 @@ home.site.description: >-
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
   World, Block by Block.
 home.slogan: 用区块链接世界
+home.title: IoTeX官网
 home.vedaad.desc.keep: >-
   Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
   on the cryptoeconomics team at Blockchain @ Berkeley
@@ -131,9 +135,6 @@ home.vedaad.title.keep: Blockchain Engineering Intern
 home.vincent.desc.keep: 加拿大滑铁卢大学计算机科学学士。专注于网络安全和区块链技术。
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: 软件工程实习生
-home.hao.desc.keep: 卡内基梅隆大学软件工程硕士在读。
-home.hao.name.keep: Hao Cui
-home.hao.title.keep: 软件工程实习生
 home.xinxin.desc.keep: >-
   加拿大滑铁卢大学电子与计算机工程博士学位。Bosch北美研究与技术中心信息安全与隐私团队的高级研究员。在信息安全与加密方面拥有超过14年研究和行业经验。
   拥有40+出版物/专利
@@ -151,9 +152,8 @@ profile.bar_success_send_points: 已生成
 profile.eth_address: ETH地址
 profile.history.category: 类别
 profile.history.point: 积分
-profile.history.reason: 原因
+profile.history.status: Status
 profile.history.time: 时间
-profile.barSuccessMsg: 已提交
 profile.msg_receive_points: msg_receive_points
 profile.phone: 手机号码
 profile.receive_reward_points: 接受奖励积分
@@ -186,6 +186,5 @@ topbar.faq: FAQ
 topbar.home: 首页
 topbar.login: 登录
 topbar.white-paper: 白皮书
-topbar.announcements: 公告
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
