@@ -161,6 +161,7 @@ profile.redeem.less_than_100_points: You need at least 100 points to submit a re
 profile.redeem.not_a_number: Please enter a valid number.
 profile.redeem.not_enough_points: You don't have enough points.
 profile.redeem.smaller_than_zero: Please enter a valid amount to redeem.
+profile.redeem.no_valid_eth_address: 你需要ETH地址才可兑换积分
 profile.redeem.success: >-
   To ensure all applications are processed safely and to avoid high gas fees, we
   will process the applications gradually and finalize all point-to-token
@@ -185,6 +186,7 @@ topbar.charity: 慈善
 topbar.faq: FAQ
 topbar.home: 首页
 topbar.login: 登录
+topbar.logout: 退出
 topbar.white-paper: 白皮书
 topbar.announcements: 公告
 whitepaper.button.next: 下一页

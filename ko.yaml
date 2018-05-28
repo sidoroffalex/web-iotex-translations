@@ -199,6 +199,7 @@ profile.redeem.less_than_100_points: You need at least 100 points to submit a re
 profile.redeem.not_a_number: Please enter a valid number.
 profile.redeem.not_enough_points: You don't have enough points.
 profile.redeem.smaller_than_zero: Please enter a valid amount to redeem.
+profile.redeem.no_valid_eth_address: You need a valid ETH address.
 profile.redeem.success: >-
   To ensure all applications are processed safely and to avoid high gas fees, we
   will process the applications gradually and finalize all point-to-token
@@ -225,6 +226,7 @@ topbar.charity: 자선
 topbar.faq: FAQ
 topbar.home: 홈
 topbar.login: 로그인
+topbar.logout: LOGOUT
 topbar.white-paper: 백서
 topbar.announcements: ANNOUNCEMENTS
 whitepaper.button.next: NEXT
