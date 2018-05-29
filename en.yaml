@@ -228,6 +228,7 @@ topbar.announcements: ANNOUNCEMENTS
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
 
+profile.history.menu: HISTORY
 profile.history.category: Category
 profile.history.point: Point
 profile.history.status: Status
@@ -251,8 +252,8 @@ profile.receive.menu: RECEIVE
 profile.receive.prompt: ENTER THE CODE
 profile.receive.button: RECEIVE
 profile.receive.success: OK.
-profile.history.menu: HISTORY
 
+profile.message.back: BACK
 profile.message.processing: Processing
 profile.message.less_than_100_points: You need at least 100 points to submit a request.
 profile.message.not_a_number: Please enter a valid number.
