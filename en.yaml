@@ -243,10 +243,14 @@ profile.redeem.button: SUBMIT APPLICATION
 profile.redeem.success: >-
   Your application has been accepted and in the queue! To avoid congestion on Ethereum network,
   we will process the applications gradually within two weeks. Thank you for your patience!
-profile.transfer.menu: TRANSFER
-profile.transfer.prompt: ENTER THE AMOUNT YOU WANT TO TRANSFER
-profile.transfer.button: TRANSFER
-profile.transfer.success: OK
+profile.send.menu: SEND
+profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
+profile.send.button: SEND
+profile.send.success: OK.
+profile.receive.menu: RECEIVE
+profile.receive.prompt: ENTER THE CODE
+profile.receive.button: RECEIVE
+profile.receive.success: OK.
 profile.history.menu: HISTORY
 
 profile.message.processing: Processing
