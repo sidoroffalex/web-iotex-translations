@@ -249,6 +249,7 @@ profile.transfer.button: TRANSFER
 profile.transfer.success: OK
 profile.history.menu: HISTORY
 
-profile.input.less_than_100_points: You need at least 100 points to submit a request.
-profile.input.not_a_number: Please enter a valid number.
-profile.input.not_enough_points: You don't have enough points.
+profile.message.processing: Processing
+profile.message.less_than_100_points: You need at least 100 points to submit a request.
+profile.message.not_a_number: Please enter a valid number.
+profile.message.not_enough_points: You don't have enough points.
