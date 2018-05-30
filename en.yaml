@@ -174,7 +174,7 @@ home.section.arch: IoTeX.Architecture
 home.section.innovations: IoTeX.Innovations
 home.section.investors: IoTeX.Investors
 home.section.partners: IoTeX.StrategicPartners
-home.section.roadmap: IoTeX.Roadmap
+home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
@@ -253,6 +253,7 @@ topbar.charity: CHARITY
 topbar.faq: FAQ
 topbar.home: HOME
 topbar.login: LOGIN
+topbar.logout: LOGOUT
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
