@@ -144,6 +144,33 @@ home.zhefeng.desc.keep: 加州大学圣地亚哥分校计算机硕士，威斯�
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: 区块链工程师
 next: next
+profile.history.category: 类别
+profile.history.menu: HISTORY
+profile.history.point: 积分
+profile.history.status: 状态
+profile.history.time: 时间
+profile.info.eth_address: ETH 地址
+profile.info.phone_number: 手机号码
+profile.info.telegram_account_id: Telegram 账号
+profile.message.back: 返回
+profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
+profile.message.not_a_number: 请输入一个合法的数字。
+profile.message.not_enough_points: 您没有足够的积分。
+profile.message.processing: 处理中
+profile.receive.menu: 接收
+profile.receive.prompt: 请输入兑换码
+profile.receive.success: 恭喜！成功获取%s积分。
+profile.redeem.button: 提交申请
+profile.redeem.menu: 兑换
+profile.redeem.prompt: 请输入您想兑换到IOTX币的数额
+profile.redeem.success: >-
+  Your application has been accepted and in the queue! To avoid congestion on
+  Ethereum  network, we will process the applications gradually and finalize all
+  point-to-token  redemptions within two weeks.
+profile.send.button: 获取兑换码
+profile.send.menu: 发送
+profile.send.prompt: 请输入您想赠送的数额
+profile.send.success: '已成功生成兑换码。请复制以在不同账户间转移积分: %s。'
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展
@@ -151,47 +178,13 @@ subscribe.title: 与我们保持联系
 testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
 testnet-preview.released-event-title: 我们的测试网预览已经发布！
 testnet-preview.released-title: 我们的测试网预览已经发布
+topbar.announcements: 公告
 topbar.blog: BLOG
 topbar.careers: 职位
 topbar.charity: 慈善
 topbar.faq: FAQ
 topbar.home: 首页
 topbar.login: 登录
-topbar.logout: 退出
 topbar.white-paper: 白皮书
-topbar.announcements: 公告
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
-
-profile.history.menu: HISTORY
-profile.history.category: 类别
-profile.history.point: 积分
-profile.history.status: 状态
-profile.history.time: 时间
-
-profile.info.phone_number: 手机号码
-profile.info.telegram_account_id: Telegram 账号
-profile.info.eth_address: ETH 地址
-
-profile.redeem.menu: 兑换
-profile.redeem.prompt: 请输入您想兑换到IOTX币的数额
-profile.redeem.button: 提交申请
-profile.redeem.success: >-
-  Your application has been accepted and in the queue! To avoid congestion on Ethereum 
-  network, we will process the applications gradually and finalize all point-to-token 
-  redemptions within two weeks.
-profile.send.menu: 发送
-profile.send.prompt: 请输入您想赠送的数额
-profile.send.button: 获取兑换码
-profile.send.success: >-
-  已成功生成兑换码。请复制以在不同账户间转移积分: %s。
-profile.receive.menu: 接收
-profile.receive.prompt: 请输入兑换码
-profile.receive.button: 接收积分
-profile.receive.success: 恭喜！成功获取%s积分。
-
-profile.message.back: 返回
-profile.message.processing: 处理中
-profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
-profile.message.not_a_number: 请输入一个合法的数字。
-profile.message.not_enough_points: 您没有足够的积分。

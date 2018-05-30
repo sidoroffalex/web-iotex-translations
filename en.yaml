@@ -207,6 +207,35 @@ home.zhefeng.desc.keep: >-
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Blockchain Engineer
 next: next
+profile.history.category: Category
+profile.history.menu: HISTORY
+profile.history.point: Point
+profile.history.status: Status
+profile.history.time: Time
+profile.info.eth_address: ETH Address
+profile.info.phone_number: Phone
+profile.info.telegram_account_id: Telegram
+profile.message.back: BACK
+profile.message.less_than_100_points: You need at least 100 points to submit a request.
+profile.message.not_a_number: Please enter a valid number.
+profile.message.not_enough_points: You don't have enough points.
+profile.message.processing: Processing
+profile.receive.menu: RECEIVE
+profile.receive.prompt: ENTER THE CODE
+profile.receive.success: Congratulations! You just received %s points.
+profile.redeem.button: SUBMIT APPLICATION
+profile.redeem.menu: REDEEM
+profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
+profile.redeem.success: >-
+  Your application has been accepted and in the queue! To avoid congestion on
+  Ethereum  network, we will process the applications gradually and finalize all
+  point-to-token  redemptions within two weeks.
+profile.send.button: SEND
+profile.send.menu: SEND
+profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
+profile.send.success: >-
+  IoTeX code has been successfully created! Copy the code to transfer points
+  between accounts: %s.
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
@@ -216,47 +245,13 @@ subscribe.title: STAY UPDATED
 testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
 testnet-preview.released-title: Testnet Preview Has Been Released On
+topbar.announcements: ANNOUNCEMENTS
 topbar.blog: BLOG
 topbar.careers: CAREERS
 topbar.charity: CHARITY
 topbar.faq: FAQ
 topbar.home: HOME
 topbar.login: LOGIN
-topbar.logout: LOGOUT
 topbar.white-paper: WHITE PAPER
-topbar.announcements: ANNOUNCEMENTS
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
-
-profile.history.menu: HISTORY
-profile.history.category: Category
-profile.history.point: Point
-profile.history.status: Status
-profile.history.time: Time
-
-profile.info.phone_number: Phone
-profile.info.telegram_account_id: Telegram
-profile.info.eth_address: ETH Address
-
-profile.redeem.menu: REDEEM
-profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
-profile.redeem.button: SUBMIT APPLICATION
-profile.redeem.success: >-
-  Your application has been accepted and in the queue! To avoid congestion on Ethereum 
-  network, we will process the applications gradually and finalize all point-to-token 
-  redemptions within two weeks.
-profile.send.menu: SEND
-profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
-profile.send.button: SEND
-profile.send.success: >-
-  IoTeX code has been successfully created! Copy the code to transfer points between accounts: %s.
-profile.receive.menu: RECEIVE
-profile.receive.prompt: ENTER THE CODE
-profile.receive.button: RECEIVE
-profile.receive.success: Congratulations! You just received %s points.
-
-profile.message.back: BACK
-profile.message.processing: Processing
-profile.message.less_than_100_points: You need at least 100 points to submit a request.
-profile.message.not_a_number: Please enter a valid number.
-profile.message.not_enough_points: You don't have enough points.
