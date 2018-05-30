@@ -217,16 +217,18 @@ profile.redeem.menu: REDEEM
 profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
 profile.redeem.button: SUBMIT APPLICATION
 profile.redeem.success: >-
-  Your application has been accepted and in the queue! To avoid congestion on Ethereum network,
-  we will process the applications gradually within two weeks. Thank you for your patience!
+  Your application has been accepted and in the queue! To avoid congestion on Ethereum 
+  network, we will process the applications gradually and finalize all point-to-token 
+  redemptions within two weeks.
 profile.send.menu: SEND
 profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
 profile.send.button: SEND
-profile.send.success: OK.
+profile.send.success: >-
+  IoTeX code has been successfully created! Copy the code to transfer points between accounts: %s.
 profile.receive.menu: RECEIVE
 profile.receive.prompt: ENTER THE CODE
 profile.receive.button: RECEIVE
-profile.receive.success: OK.
+profile.receive.success: Congratulations! You just received %s points.
 
 profile.message.back: BACK
 profile.message.processing: Processing
