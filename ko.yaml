@@ -152,7 +152,7 @@ home.section.arch: IoTeX.Architecture
 home.section.innovations: IoTeX.Innovations
 home.section.investors: IoTeX.Investors
 home.section.partners: IoTeX.StrategicPartners
-home.section.roadmap: IoTeX.Roadmap
+home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
@@ -182,35 +182,36 @@ home.zhefeng.desc.keep: >-
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Blockchain Engineer
 next: next
-profile.bar_receive_points: CLAIM
-profile.bar_redeem_points: SUBMIT APPLICATION
-profile.bar_send_points: GENERATE CODE
-profile.bar_success_receive_points: CLAIM
-profile.bar_success_send_points: GENERATE
-profile.eth_address: ETH Address
 profile.history.category: Category
+profile.history.menu: HISTORY
 profile.history.point: Point
 profile.history.status: Status
 profile.history.time: Time
-profile.msg_receive_points: msg_receive_points
-profile.phone: Phone
-profile.receive_reward_points: RECEIVE
-profile.redeem.less_than_100_points: You need at least 100 points to submit a request.
-profile.redeem.not_a_number: Please enter a valid number.
-profile.redeem.not_enough_points: You don't have enough points.
-profile.redeem.smaller_than_zero: Please enter a valid amount to redeem.
-profile.redeem.no_valid_eth_address: You need a valid ETH address.
+profile.info.eth_address: ETH Address
+profile.info.phone_number: Phone
+profile.info.telegram_account_id: Telegram
+profile.message.back: BACK
+profile.message.less_than_100_points: You need at least 100 points to submit a request.
+profile.message.not_a_number: Please enter a valid number.
+profile.message.not_enough_points: You don't have enough points.
+profile.message.processing: Processing
+profile.receive.button: RECEIVE
+profile.receive.menu: RECEIVE
+profile.receive.prompt: ENTER THE CODE
+profile.receive.success: Congratulations! You just received %s points.
+profile.redeem.button: SUBMIT APPLICATION
+profile.redeem.menu: REDEEM
+profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
 profile.redeem.success: >-
-  To ensure all applications are processed safely and to avoid high gas fees, we
-  will process the applications gradually and finalize all point-to-token
-  redemptions within two weeks of our token issuance date.
-profile.redeem_reward_points: REDEEM
-profile.reward_points_history: HISTORY
-profile.send_reward_points: SEND
-profile.telegram_account_id: Telegram
-profile.title_receive_points: ENTER CODE TO CLAIM MORE POINTS
-profile.title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
-profile.title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
+  Your application has been accepted and in the queue! To avoid congestion on
+  Ethereum  network, we will process the applications gradually and finalize all
+  point-to-token  redemptions within two weeks.
+profile.send.button: SEND
+profile.send.menu: SEND
+profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
+profile.send.success: >-
+  IoTeX code has been successfully created! Copy the code to transfer points
+  between accounts: %s.
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
@@ -220,6 +221,7 @@ subscribe.title: 항상 최신 정보를 받으십시오
 testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
 testnet-preview.released-title: Testnet Preview Has Been Released On
+topbar.announcements: ANNOUNCEMENTS
 topbar.blog: 블로그
 topbar.careers: 인재채용
 topbar.charity: 자선
@@ -228,6 +230,5 @@ topbar.home: 홈
 topbar.login: 로그인
 topbar.logout: LOGOUT
 topbar.white-paper: 백서
-topbar.announcements: ANNOUNCEMENTS
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
