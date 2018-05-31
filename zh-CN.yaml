@@ -9,7 +9,11 @@ auth.next: 下一步
 auth.phone_number: 手机号码
 auth.tab.mobile: 手机登录
 auth.tab.telegram: Telegram
+auth.login_with_mobile: 使用手机号登录
 auth.verification_code: 验证码
+captcha.loading_captcha: 正在载入人机验证...
+captcha.incorrect_captcha: 验证码错误
+captcha.unknown_error: 未知错误，请稍后重试。
 charity.donated: 捐赠了
 charity.more-info: 了解IoTeX慈善活动更多信息
 charity.question: 我是如何知道IoTeX的？为什么我支持这个项目？
@@ -25,7 +29,6 @@ contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家
 contact.title: 与我们保持联系
 doraHacks: DoraHacks
 ethFoundation: 以太坊基金会
-geetest.loading_captcha: 正在载入人机验证...
 hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
 hall-of-fame.badge-section.unicorn.desc: >
   在过去的四年，以太坊彻底颠覆了区块链世界，并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a
@@ -143,7 +146,6 @@ home.xinxin.title.keep: 密码学负责人
 home.zhefeng.desc.keep: 加州大学圣地亚哥分校计算机硕士，威斯康星大学计算机和数学双学位。专注于区块链技术，机器学习和人工智能。
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: 区块链工程师
-next: next
 profile.history.category: 类别
 profile.history.menu: HISTORY
 profile.history.point: 积分
@@ -185,7 +187,7 @@ topbar.careers: 职位
 topbar.charity: 慈善
 topbar.faq: FAQ
 topbar.home: 首页
-topbar.login: 登录
+topbar.login: 账户
 topbar.logout: 退出
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页

@@ -7,11 +7,15 @@ auth.enter_verification_code: >-
   <strong>%s</strong>
 auth.login: Login
 auth.login_with_telegram: Login with telegram
+auth.login_with_mobile: Login with phone number
 auth.next: Next
 auth.phone_number: Phone Number
 auth.tab.mobile: Phone(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Verification Code
+captcha.loading_captcha: Loading captcha...
+captcha.incorrect_captcha: Incorrect captcha
+captcha.unknown_error: Something went wrong. Please try again later.
 charity.donated: Donated
 charity.more-info: More About IoTeX Charity Program
 charity.question: How did I know IoTeX? Why I am interested in it?
@@ -29,7 +33,6 @@ contact.desc: IoTeX 전문가들은 언제든지 이메일(support@iotex.io)을 
 contact.title: 언제든지 연락하십시오
 doraHacks: DoraHacks
 ethFoundation: Ethereum Foundation
-geetest.loading_captcha: Loading captcha...
 hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
 hall-of-fame.badge-section.unicorn.desc: >
   Ethereum has revolutionized the blockchain world for the past four years and
@@ -181,7 +184,6 @@ home.zhefeng.desc.keep: >-
   Blockchain technology, machine learning, and Internet of Things enthusiast.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Blockchain Engineer
-next: next
 profile.history.category: Category
 profile.history.menu: HISTORY
 profile.history.point: Point
@@ -227,7 +229,7 @@ topbar.careers: 인재채용
 topbar.charity: 자선
 topbar.faq: FAQ
 topbar.home: 홈
-topbar.login: 로그인
+topbar.login: PROFILE
 topbar.logout: LOGOUT
 topbar.white-paper: 백서
 whitepaper.button.next: NEXT
