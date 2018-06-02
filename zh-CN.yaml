@@ -14,11 +14,15 @@ charity.donated: 捐赠了
 charity.more-info: 了解IoTeX慈善活动更多信息
 charity.question: 我是如何知道IoTeX的？为什么我支持这个项目？
 charity.share-message: 将你的善举分享给更多人！
-charity.to: 向
+charity.to: 给
 charity.tweet.summary.description: 感谢你为区块链行业做出的贡献！除了一次性发放16，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: 你的善举已经公示在IoTeX荣誉墙上！
+charity-dorahacks.tweet.summary.description: >-
+  感谢你为区块链行业做出的贡献！除了一次性发放12，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
+charity-dorahacks.tweet.summary.image: >-
+ https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png
 claim.btn: 兑换你的积分
 contact.btn: 联系我们
 contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家团队将为您解答
@@ -27,22 +31,37 @@ doraHacks: DoraHacks
 ethFoundation: 以太坊基金会
 geetest.loading_captcha: 正在载入人机验证...
 hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
-hall-of-fame.badge-section.unicorn.desc: >
-  在过去的四年，以太坊彻底颠覆了区块链世界，并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a
-  target="_blank"
-  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">资助</a>，进行区块链前沿技术革新，从而推动整个区块链生态系统的发展与壮大。
+hall-of-fame.badge-section.eth-foundation.desc: >
+  在过去的四年，<a target="_blank" href="https://www.ethereum.org/foundation">以太坊</a>彻底颠覆了区块链世界，
+  并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">资助</a>，
+  进行区块链前沿技术革新，从而推动整个区块链生态系统的发展与壮大。
   IoTeX坚信，严谨的研究和协作对推动整个行业的发展起到及其重要的作用。我们需要更多顶尖和杰出人才掀起全球区块链的热潮。
   通过捐赠ETH给以太坊基金会这一微小但意义深远的方式来帮助我们的事业，促进区块链研究和发展。 你可以通过简单而又意义深远的方式 -
   向以太坊基金会捐赠ETH，来帮助我们实现这个目标，从而促进区块链行业的研究和发展。
 
 
-  有关参与细节，请加入<a target="_blank" href="https://t.me/IoTeXGroup">IoTeX官方电报群组</a>
-  并随时留意置顶消息。
-
-
   更多详情请参见 <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   首次慈善活动总结报告</a>.
+hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
+hall-of-fame.badge-section.dorahacks.desc: >
+  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the largest hackathon
+  organizer and hacker developer community in China, and has expanded its footprint in 2018 to
+  10 countries, including the United States, South Korea, Japan, England, and India. To date,
+  DoraHacks has organized more than 100 hackathons in seven cities around the world, with more
+  than 5,000 core hackers and 200,000 global developers in their community. DoraHacks has
+  provided a platform for developers of all skill levels to create more than 1,000 applications
+  in their hackathons, and their hackers have gone on to start and lead various blockchain
+  startups, such as ProChain and CorTex — and they are just getting started.
+
+
+  Check more detail at <a target="_blank"
+  href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
+  2nd Charity Program Update</a>.
+hall-of-fame.badge-section.participation-detail: >
+  有关参与细节，请加入<a target="_blank" href="https://t.me/IoTeXGroup">IoTeX官方电报群组</a>
+  并随时留意置顶消息。
 hall-of-fame.search.label: 请输入你的hashid或展示名称进行查询
 hall-of-fame.thank-you.message: >
   通过众筹方式为慈善机构募集资金并不罕见，但IoTeX通过“智能合约”来实现这一目标，并将站在时代风口之上的加密货币导向到为慈善事业做出贡献。
