@@ -7,11 +7,15 @@ auth.enter_verification_code: >-
   <strong>%s</strong>
 auth.login: Login
 auth.login_with_telegram: Login with Telegram
+auth.login_with_mobile: Login with phone number
 auth.next: Next
 auth.phone_number: Phone Number
 auth.tab.mobile: Phone(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Verification Code
+captcha.loading_captcha: Loading captcha...
+captcha.incorrect_captcha: Incorrect captcha
+captcha.unknown_error: Something went wrong. Please try again later.
 charity.donated: Donated
 charity.more-info: More About IoTeX Charity Program
 charity.question: How did I know IoTeX? Why I am interested in it?
@@ -34,7 +38,6 @@ contact.desc: IoTeX experts are ready to answer your questions via support@iotex
 contact.title: STAY IN TOUCH
 doraHacks: DoraHacks
 ethFoundation: Ethereum Foundation
-geetest.loading_captcha: Loading captcha...
 hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
 hall-of-fame.badge-section.eth-foundation.desc: >
   <a target="_blank" href="https://www.ethereum.org/foundation">Ethereum</a>
@@ -226,7 +229,6 @@ home.zhefeng.desc.keep: >-
   Blockchain technology, machine learning, and Internet of Things enthusiast.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Blockchain Engineer
-next: next
 profile.history.category: Category
 profile.history.menu: HISTORY
 profile.history.point: Point
@@ -272,7 +274,7 @@ topbar.careers: CAREERS
 topbar.charity: CHARITY
 topbar.faq: FAQ
 topbar.home: HOME
-topbar.login: LOGIN
+topbar.login: PROFILE
 topbar.logout: LOGOUT
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
