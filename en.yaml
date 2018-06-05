@@ -237,8 +237,7 @@ profile.send.button: SEND
 profile.send.menu: SEND
 profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
 profile.send.success: >-
-  IoTeX code has been successfully created! Copy the code to transfer points
-  between accounts: %s.
+  IoTeX code has been successfully created! You can find the code below.
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
@@ -259,3 +258,10 @@ topbar.logout: LOGOUT
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+profile.transfer.time: Create time
+profile.transfer.start: Start time
+profile.transfer.end: End time
+profile.transfer.total: Total
+profile.transfer.left: Left
+profile.transfer.code: Code
+profile.message.copy: Copy

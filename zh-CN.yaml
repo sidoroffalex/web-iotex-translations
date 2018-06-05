@@ -173,7 +173,7 @@ profile.redeem.success: >-
 profile.send.button: 获取兑换码
 profile.send.menu: 发送
 profile.send.prompt: 请输入您想赠送的数额
-profile.send.success: '已成功生成兑换码。请复制以在不同账户间转移积分: %s。'
+profile.send.success: 已成功生成兑换码，请在下方记录中查看。
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展
@@ -192,3 +192,10 @@ topbar.logout: 退出
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
+profile.transfer.time: 创建时间
+profile.transfer.start: 开始时间
+profile.transfer.end: 结束时间
+profile.transfer.total: 总额
+profile.transfer.left: 剩余
+profile.transfer.code: 兑换码
+profile.message.copy: 复制
