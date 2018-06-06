@@ -12,6 +12,8 @@ auth.tab.mobile: 手机登录
 auth.tab.telegram: Telegram
 auth.verification_code: 验证码
 captcha.loading_captcha: 正在载入人机验证...
+captcha.incorrect_captcha: 验证码错误
+captcha.unknown_error: 未知错误，请稍后重试。
 charity-dorahacks.tweet.summary.description: 感谢你为区块链行业做出的贡献！除了一次性发放12，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
 charity.donated: 捐赠了

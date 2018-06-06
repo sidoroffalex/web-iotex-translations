@@ -14,6 +14,8 @@ auth.tab.mobile: Phone(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Verification Code
 captcha.loading_captcha: Loading captcha...
+captcha.incorrect_captcha: Wrong captcha
+captcha.unknown_error: Something went wrong. Please try again later.
 charity-dorahacks.tweet.summary.description: >-
   We appreciate your Big Heart! Besides the one-time fixed 12,000 points
   thank-you gift, now we put your good deed on IoTeX website!
