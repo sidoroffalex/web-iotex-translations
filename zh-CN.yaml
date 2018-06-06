@@ -11,8 +11,8 @@ auth.phone_number: 手机号码
 auth.tab.mobile: 手机登录
 auth.tab.telegram: Telegram
 auth.verification_code: 验证码
-captcha.loading_captcha: 正在载入人机验证...
 captcha.incorrect_captcha: 验证码错误
+captcha.loading_captcha: 正在载入人机验证...
 captcha.unknown_error: 未知错误，请稍后重试。
 charity-dorahacks.tweet.summary.description: 感谢你为区块链行业做出的贡献！除了一次性发放12，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
@@ -31,7 +31,7 @@ contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家
 contact.title: 与我们保持联系
 doraHacks: DoraHacks
 ethFoundation: 以太坊基金会
-hall-of-fame.badge-section.dorahacks.desc: >
+hall-of-fame.badge-section.dorahacks.desc: >-
   <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the
   largest hackathon organizer and hacker developer community in China, and has
   expanded its footprint in 2018 to 10 countries, including the United States,
@@ -48,7 +48,7 @@ hall-of-fame.badge-section.dorahacks.desc: >
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
   2nd Charity Program Update</a>.
 hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
-hall-of-fame.badge-section.eth-foundation.desc: >
+hall-of-fame.badge-section.eth-foundation.desc: >-
   在过去的四年，<a target="_blank"
   href="https://www.ethereum.org/foundation">以太坊</a>彻底颠覆了区块链世界，
   并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a target="_blank"
@@ -62,12 +62,12 @@ hall-of-fame.badge-section.eth-foundation.desc: >
   更多详情请参见 <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   首次慈善活动总结报告</a>.
-hall-of-fame.badge-section.participation-detail: >
+hall-of-fame.badge-section.participation-detail: >-
   有关参与细节，请加入<a target="_blank" href="https://t.me/IoTeXGroup">IoTeX官方电报群组</a>
   并随时留意置顶消息。
 hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
 hall-of-fame.search.label: 请输入你的hashid或展示名称进行查询
-hall-of-fame.thank-you.message: >
+hall-of-fame.thank-you.message: >-
   通过众筹方式为慈善机构募集资金并不罕见，但IoTeX通过“智能合约”来实现这一目标，并将站在时代风口之上的加密货币导向到为慈善事业做出贡献。
   结合IoTeX“用区块链接世界”的愿景，在接下来的几个月中，IoTeX将继续甄选慈善机构，推进更多慈善活动，作为社区奖励计划的重要组成部分。
 

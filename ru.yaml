@@ -13,8 +13,8 @@ auth.phone_number: Phone Number
 auth.tab.mobile: Phone(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Verification Code
-captcha.loading_captcha: Loading captcha...
 captcha.incorrect_captcha: Wrong captcha
+captcha.loading_captcha: Loading captcha...
 captcha.unknown_error: Something went wrong. Please try again later.
 charity-dorahacks.tweet.summary.description: >-
   We appreciate your Big Heart! Besides the one-time fixed 12,000 points
@@ -37,7 +37,7 @@ contact.desc: Эксперты IoTeX готовы ответить на все �
 contact.title: ОСТАВАЙТЕСЬ НА СВЯЗИ
 doraHacks: DoraHacks
 ethFoundation: Фонд Эфириум
-hall-of-fame.badge-section.dorahacks.desc: >
+hall-of-fame.badge-section.dorahacks.desc: >-
   <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the
   largest hackathon organizer and hacker developer community in China, and has
   expanded its footprint in 2018 to 10 countries, including the United States,
@@ -72,7 +72,7 @@ hall-of-fame.badge-section.eth-foundation.desc: >-
   target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">Обзор
   первой Б лаготворительной Программы IoTeX</a>.
-hall-of-fame.badge-section.participation-detail: >
+hall-of-fame.badge-section.participation-detail: >-
   For participation detail, please join official <a target="_blank"
   href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
   messages.

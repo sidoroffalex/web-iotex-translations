@@ -13,8 +13,8 @@ auth.phone_number: Phone Number
 auth.tab.mobile: Phone(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Verification Code
-captcha.loading_captcha: Loading captcha...
 captcha.incorrect_captcha: Wrong captcha
+captcha.loading_captcha: Loading captcha...
 captcha.unknown_error: Something went wrong. Please try again later.
 charity-dorahacks.tweet.summary.description: >-
   We appreciate your Big Heart! Besides the one-time fixed 12,000 points
@@ -37,7 +37,7 @@ contact.desc: IoTeX experts are ready to answer your questions via support@iotex
 contact.title: STAY IN TOUCH
 doraHacks: DoraHacks
 ethFoundation: Ethereum Foundation
-hall-of-fame.badge-section.dorahacks.desc: >
+hall-of-fame.badge-section.dorahacks.desc: >-
   <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the
   largest hackathon organizer and hacker developer community in China, and has
   expanded its footprint in 2018 to 10 countries, including the United States,
@@ -54,7 +54,7 @@ hall-of-fame.badge-section.dorahacks.desc: >
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
   2nd Charity Program Update</a>.
 hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
-hall-of-fame.badge-section.eth-foundation.desc: >
+hall-of-fame.badge-section.eth-foundation.desc: >-
   <a target="_blank" href="https://www.ethereum.org/foundation">Ethereum</a> has
   revolutionized the blockchain world for the past four years and made
   “blockchain” the newest buzzword. As an industry leader, Ethereum has provided
@@ -71,13 +71,13 @@ hall-of-fame.badge-section.eth-foundation.desc: >
   Check more detail at <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   1st Charity Program Update</a>.
-hall-of-fame.badge-section.participation-detail: >
+hall-of-fame.badge-section.participation-detail: >-
   For participation detail, please join official <a target="_blank"
   href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
   messages.
 hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
 hall-of-fame.search.label: Search by your hashid or Preferred Display Name
-hall-of-fame.thank-you.message: >
+hall-of-fame.thank-you.message: >-
   Crowdsourcing as a way to fund a specific cause for a charity is not new, but
   IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
   hype to charitable causes. In the next few months, under its Community Reward
