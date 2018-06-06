@@ -11,8 +11,8 @@ auth.phone_number: 手机号码
 auth.tab.mobile: 手机登录
 auth.tab.telegram: Telegram
 auth.verification_code: 验证码
-captcha.loading_captcha: 正在载入人机验证...
 captcha.incorrect_captcha: 验证码错误
+captcha.loading_captcha: 正在载入人机验证...
 captcha.unknown_error: 未知错误，请稍后重试。
 charity-dorahacks.tweet.summary.description: 感谢你为区块链行业做出的贡献！除了一次性发放12，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
@@ -174,27 +174,39 @@ profile.info.eth_address: ETH 地址
 profile.info.phone_number: 手机号码
 profile.info.telegram_account_id: Telegram 账号
 profile.message.back: 返回
+profile.message.copied: 兑换码已复制到剪贴板
+profile.message.copy: 复制
 profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
+profile.message.loading: 加载中
 profile.message.not_a_number: 请输入一个合法的数字。
 profile.message.not_enough_points: 您没有足够的积分。
 profile.message.processing: 处理中
-profile.message.loading: 加载中
-profile.message.copied: 兑换码已复制到剪贴板
+profile.receive.amount: 数量
 profile.receive.button: 兑换积分
 profile.receive.menu: 接收
 profile.receive.prompt: 请输入兑换码
 profile.receive.success: 恭喜！成功获取 %d 积分。请在下方记录中查看。
+profile.receive.time: 时间
+profile.redeem.amount: 数量
 profile.redeem.button: 提交申请
 profile.redeem.menu: 兑换通证
 profile.redeem.prompt: 请输入您想兑换到IOTX币的数额
+profile.redeem.status: 状态
 profile.redeem.success: >-
   Your application has been accepted and in the queue! To avoid congestion on
   Ethereum  network, we will process the applications gradually and finalize all
   point-to-token  redemptions within two weeks.
+profile.redeem.time: 时间
 profile.send.button: 获取兑换码
+profile.send.code: 兑换码
+profile.send.end: 结束时间
+profile.send.left: 剩余
 profile.send.menu: 发送
 profile.send.prompt: 请输入您想赠送的数额
+profile.send.start: 开始时间
 profile.send.success: 已成功生成兑换码。请在下方记录中查看。
+profile.send.time: 创建时间
+profile.send.total: 总额
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展
@@ -213,15 +225,3 @@ topbar.logout: 退出
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
-profile.send.time: 创建时间
-profile.send.start: 开始时间
-profile.send.end: 结束时间
-profile.send.total: 总额
-profile.send.left: 剩余
-profile.send.code: 兑换码
-profile.message.copy: 复制
-profile.receive.time: 时间
-profile.receive.amount: 数量
-profile.redeem.time: 时间
-profile.redeem.amount: 数量
-profile.redeem.status: 状态
