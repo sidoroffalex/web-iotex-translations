@@ -27,6 +27,11 @@ charity.tweet.summary.description: >-
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: You are on the IoTeX Honor Board!
+charity-dorahacks.tweet.summary.description: >-
+  We appreciate your Big Heart! Besides the one-time fixed 12,000 points
+  thank-you gift, now we put your good deed on IoTeX website!
+charity-dorahacks.tweet.summary.image: >-
+ https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png
 claim.btn: CLAIM YOUR POINTS
 contact.btn: CONTACT US
 contact.desc: IoTeX experts are ready to answer your questions via support@iotex.io
@@ -34,8 +39,9 @@ contact.title: STAY IN TOUCH
 doraHacks: DoraHacks
 ethFoundation: Ethereum Foundation
 hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
-hall-of-fame.badge-section.unicorn.desc: >
-  Ethereum has revolutionized the blockchain world for the past four years and
+hall-of-fame.badge-section.eth-foundation.desc: >
+  <a target="_blank" href="https://www.ethereum.org/foundation">Ethereum</a>
+  has revolutionized the blockchain world for the past four years and
   made “blockchain” the newest buzzword. As an industry leader, Ethereum has
   provided <a target="_blank"
   href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
@@ -47,14 +53,28 @@ hall-of-fame.badge-section.unicorn.desc: >
   Foundation to help fund blockchain research.
 
 
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
-
-
   Check more detail at <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   1st Charity Program Update</a>.
+hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
+hall-of-fame.badge-section.dorahacks.desc: >
+  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the largest hackathon
+  organizer and hacker developer community in China, and has expanded its footprint in 2018 to
+  10 countries, including the United States, South Korea, Japan, England, and India. To date,
+  DoraHacks has organized more than 100 hackathons in seven cities around the world, with more
+  than 5,000 core hackers and 200,000 global developers in their community. DoraHacks has
+  provided a platform for developers of all skill levels to create more than 1,000 applications
+  in their hackathons, and their hackers have gone on to start and lead various blockchain
+  startups, such as ProChain and CorTex — and they are just getting started.
+
+
+  Check more detail at <a target="_blank"
+  href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
+  2nd Charity Program Update</a>.
+hall-of-fame.badge-section.participation-detail: >
+  For participation detail, please join official <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
+  messages.
 hall-of-fame.search.label: Search by your hashid or Preferred Display Name
 hall-of-fame.thank-you.message: >
   Crowdsourcing as a way to fund a specific cause for a charity is not new, but
