@@ -257,7 +257,7 @@ profile.receive.amount: Amount
 profile.receive.button: RECEIVE
 profile.receive.menu: RECEIVE
 profile.receive.prompt: ENTER THE CODE
-profile.receive.success: Congratulations! You just received %s points.
+profile.receive.success: Congratulations! You just received %d points. See the table below for details.
 profile.receive.time: Time
 profile.redeem.amount: Amount
 profile.redeem.button: SUBMIT APPLICATION
@@ -276,9 +276,7 @@ profile.send.left: Left
 profile.send.menu: SEND
 profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
 profile.send.start: Start time
-profile.send.success: >-
-  IoTeX code has been successfully created! Copy the code to transfer points
-  between accounts: %s.
+profile.send.success: IoTeX code has been successfully created! You can copy the code below.
 profile.send.time: Create time
 profile.send.total: Total
 stonevan.twitter: >-
