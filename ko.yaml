@@ -208,33 +208,44 @@ home.zhefeng.title.keep: Blockchain Engineer
 profile.history.category: Category
 profile.history.menu: HISTORY
 profile.history.point: Point
-profile.history.status: Status
 profile.history.time: Time
 profile.info.eth_address: ETH Address
 profile.info.phone_number: Phone
 profile.info.telegram_account_id: Telegram
 profile.message.back: BACK
+profile.message.copied: The code has been copied to your clipboard.
+profile.message.copy: Copy
 profile.message.less_than_100_points: You need at least 100 points to submit a request.
+profile.message.loading: Loading
 profile.message.not_a_number: Please enter a valid number.
 profile.message.not_enough_points: You don't have enough points.
 profile.message.processing: Processing
+profile.receive.amount: Amount
 profile.receive.button: RECEIVE
 profile.receive.menu: RECEIVE
 profile.receive.prompt: ENTER THE CODE
-profile.receive.success: Congratulations! You just received %s points.
+profile.receive.success: Congratulations! You just received %d points. See the table below for details.
+profile.receive.time: Time
+profile.redeem.amount: Amount
 profile.redeem.button: SUBMIT APPLICATION
-profile.redeem.menu: REDEEM
+profile.redeem.menu: REDEEM TOKEN
 profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
+profile.redeem.status: Status
 profile.redeem.success: >-
   Your application has been accepted and in the queue! To avoid congestion on
   Ethereum  network, we will process the applications gradually and finalize all
   point-to-token  redemptions within two weeks.
+profile.redeem.time: Time
 profile.send.button: SEND
+profile.send.code: Code
+profile.send.end: End time
+profile.send.left: Left
 profile.send.menu: SEND
 profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
-profile.send.success: >-
-  IoTeX code has been successfully created! Copy the code to transfer points
-  between accounts: %s.
+profile.send.start: Start time
+profile.send.success: IoTeX code has been successfully created! You can find the code below.
+profile.send.time: Create time
+profile.send.total: Total
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
