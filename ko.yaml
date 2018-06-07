@@ -1,37 +1,37 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-auth.enter_phone_number: Enter phone number
+auth.enter_phone_number: Введите ваш номер телефона
 auth.enter_verification_code: >-
-  Please enter the 6-digit verification code sent to your phone
+  Пожалуйста, введите 6-значный код верификации отправленный на ваш номер телефона
   <strong>%s</strong>
-auth.login: Login
-auth.login_with_mobile: Login with phone number
-auth.login_with_telegram: Login with telegram
-auth.next: Next
-auth.phone_number: Phone Number
-auth.tab.mobile: Phone(CN)
-auth.tab.telegram: Telegram
-auth.verification_code: Verification Code
-captcha.incorrect_captcha: Wrong captcha
-captcha.loading_captcha: Loading captcha...
-captcha.unknown_error: Something went wrong. Please try again later.
+auth.login: Имя пользователя
+auth.login_with_mobile: Вход при помощи номера телефона
+auth.login_with_telegram: Вход при помощи Телеграма
+auth.next: Следующий
+auth.phone_number: Номер телефона
+auth.tab.mobile: Телефон(CN)
+auth.tab.telegram: Телеграм
+auth.verification_code: Код верификации
+captcha.incorrect_captcha: Неверная капча
+captcha.loading_captcha: Загрузка капчи...
+captcha.unknown_error: Что-то пошло не так. Пожалуйста, попробуйте позже.
 charity-dorahacks.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 12,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  У Вас доброе сердце! Помимо единовременного фиксированного подарка в 12,000 очков, 
+  мы разместим Ваш добрый поступок на сайте IoTeX!
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
-charity.donated: Donated
-charity.more-info: More About IoTeX Charity Program
-charity.question: How did I know IoTeX? Why I am interested in it?
-charity.share-message: Share Your Act of Kindness!
-charity.to: To
+charity.donated: Пожертвовано
+charity.more-info: Подробнее о благотворительной программе IoTeX
+charity.question: Как я узнал об IoTeX? Почему я заинтересовался?
+charity.share-message: Поделитесь своим актом доброты!
+charity.to: К
 charity.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  У Вас доброе сердце! Помимо единовременного фиксированного подарка в 16,000 очков, 
+  мы разместим Ваш добрый поступок на сайте IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: You are on the IoTeX Honor Board!
-claim.btn: CLAIM YOUR POINTS
+charity.tweet.summary.title: Вы на доске почета IoTeX!
+claim.btn: ЗАПРСИТЬ ВАШИ БАЛЛЫ
 contact.btn: 문의처
 contact.desc: IoTeX 전문가들은 언제든지 이메일(support@iotex.io)을 통해 귀하의 질문에 답변해 드리겠습니다
 contact.title: 언제든지 연락하십시오
